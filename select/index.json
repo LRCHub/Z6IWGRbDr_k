@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "respawn",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T05:44:18.632023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Respawn",
+      "artist": "ANDY SVGE feat. Voidax & Robin Vane",
+      "has_synced": true,
+      "path": "select/01_Respawn_ANDY_SVGE_feat._Voidax_&_Robin_Vane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "we respawn",
+      "artist": "xaev",
+      "has_synced": true,
+      "path": "select/02_we_respawn_xaev.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Respawn",
+      "artist": "Buni",
+      "has_synced": true,
+      "path": "select/03_No_Respawn_Buni.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Respawn",
+      "artist": "Crushed",
+      "has_synced": true,
+      "path": "select/04_Respawn_Crushed.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Respawn",
+      "artist": "DeeThane",
+      "has_synced": true,
+      "path": "select/05_Respawn_DeeThane.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Respawn (feat. Link Up TV)",
+      "artist": "Buni",
+      "has_synced": true,
+      "path": "select/06_No_Respawn_(feat._Link_Up_TV)_Buni.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Respawn",
+      "artist": "ANDY SVGE",
+      "has_synced": true,
+      "path": "select/07_Respawn_ANDY_SVGE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Respawn",
+      "artist": "Little Town",
+      "has_synced": true,
+      "path": "select/08_Respawn_Little_Town.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Respawn (Noob Special)",
+      "artist": "Magoyond",
+      "has_synced": false,
+      "path": "select/09_Respawn_(Noob_Special)_Magoyond.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Respawn",
+      "artist": "Saucy Dog",
+      "has_synced": true,
+      "path": "select/10_Respawn_Saucy_Dog.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Respawn",
+      "artist": "Abel",
+      "has_synced": false,
+      "path": "select/11_Respawn_Abel.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "respawn.",
+      "artist": "Late 90s",
+      "has_synced": true,
+      "path": "select/12_respawn._Late_90s.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Respawn (feat. Robin Vane)",
+      "artist": "The Qontinent",
+      "has_synced": true,
+      "path": "select/13_Respawn_(feat._Robin_Vane)_The_Qontinent.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Respawn",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/14_Respawn_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Respawn",
+      "artist": "Euphoria Ω",
+      "has_synced": false,
+      "path": "select/15_Respawn_Euphoria_Ω.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Respawn (Live)",
+      "artist": "DeeThane",
+      "has_synced": false,
+      "path": "select/16_Respawn_(Live)_DeeThane.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "respawn",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_respawn_ピーナッツくん.txt"
+    }
+  ]
+}
